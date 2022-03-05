@@ -7,6 +7,7 @@
 <sub>*Industrial maintenance supervisor* and studying data science</sub>
 
 I have a Bachelor's Degree in Mechatronics Engineering from IFCE. In the industry I have experience with people and project management in the area of engineering and automation. I developed projects involving applications with raspberry pi using linux and python.
+
 **Background in:** Project management, People management, Python, Raspberry Pi, Linux.
 
 **Links:**
