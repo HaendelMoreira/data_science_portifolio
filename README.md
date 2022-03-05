@@ -17,8 +17,8 @@ I have a Bachelor's Degree in Mechatronics Engineering from IFCE. In the industr
 
 ## Projetos:
 
-Retrofitting a filling machine: https://bit.ly/3CdpnGe
-Projeto plataforma robótica: https://bit.ly/3sJFJn9
+* **Retrofitting a filling machine:** https://bit.ly/3CdpnGe
+* **Projeto plataforma robótica:** https://bit.ly/3sJFJn9
 ---
 
 
