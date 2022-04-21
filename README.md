@@ -15,7 +15,7 @@ I have a Bachelor's Degree in Mechatronics Engineering from IFCE. In the industr
 * [Email]haendelcavalcante@gmail.com
 
 
-## Projetos:
+## Projects:
 
 * **Retrofitting a filling machine:** https://bit.ly/3CdpnGe
 * **Hexapod robotic platform project:** https://bit.ly/3sJFJn9
