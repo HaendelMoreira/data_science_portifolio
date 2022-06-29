@@ -19,6 +19,7 @@ I have a Bachelor's Degree in Mechatronics Engineering from IFCE. In the industr
 
 * **Retrofitting a filling machine:** https://bit.ly/3CdpnGe
 * **Hexapod robotic platform project:** https://bit.ly/3sJFJn9
+* **Data extraction with yfinance and Webscraping:** https://ibm.co/3OThJpU
 ---
 
 
