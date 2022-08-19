@@ -4,7 +4,7 @@
 </p>
 
 # Haendel Moreira
-<sub>*Industrial maintenance supervisor* and studying data science</sub>
+<sub>*Jr. data science* </sub>
 
 Hello everyone, my name is Handel and I have a degree in Mechatronics Engineering. In my professional career I have worked with python programming, with electronics and in Industry as a manager and technical leader. In all the places where I went I stood out for my critical sense and in decision making, these experiences contributed to the formation of a broad view of the market that is one of the factors to be a good data scientist. I am currently focused on machine learn studies and exploring data science libraries for python such as pandas, numpy, matplotlib, scikit-learn, plotly and seaborn.
 
